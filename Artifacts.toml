@@ -1,0 +1,141 @@
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "466268ebab1c1d5a961b59bf4b479e4a3facf904"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "eef00ff3e82162fb0d05417abd24771b9c3e8102369c61d4bbba9d423efae307"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "3eddefe488f9081aeeb081283046f70813a45433"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "e85cebf7e7b5bac446f00e7e17a35485ee7ea15119439d62af505afdd8479cdb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "802a29db27b6930c9fa1e32e012e563d0c308343"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "a5978d7969bfa6eedfc19a68063f6630145c7991fa456af09a27450d514788b1"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "3f7c925ef87821fb19b381bd90752b08dcf8a0d5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "19e60eb1b04e6901bab6fa930e0e6954fa46415af59de19c29ee968b74d03440"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "15c32bc97bbfcad2623169d0f82c49af12268044"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "0a26c65b0c966d9dc94b505f6a828b9bd4f7c935873a5ed25f43fd51d6eaf50c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "7e6d3d1a151a3d510c0e5a4c8f2c792f53e39777"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "94c7ee8901061d4cf9f75d1d8a5c97f023cfec901c78241c4d16a412a9bce962"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "d929bb01f9972341de804f8ad921c218b015c84b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "03823eb9918e7d4d62497a13f451856210a7ea7c7af74e55a4db95a8322c4c86"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-musl-libgfortran3.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "1b0d359ef74f313e30269edae508b4b8b76d2630"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "2a2d77256b5a6541bf3b1cc50739448443ae0c245580fd0b920a6a0030c997b2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-musl-libgfortran4.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "2f63143bc58dfcd1b1f9a1818814f73cd5007601"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "3199823183c84065c61fcb2e263596b0aca4503b2dd1fe887d33c7b1ea995479"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-linux-musl-libgfortran5.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "89ba52106fdb769e3001fa7ecf55ec2fd57fe061"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "3a6cdf09427865f923f9d3f8a0637bd8b02b3117eb0492fb2593b0b30349ca93"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "e375c16aa67e59abb6e1f0c79188cf86053bffc0"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "4034dda7e531c26b4915c3d691719d72266b448f7c4541bca3ca17904ef903eb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "dd093ba0f0b29d1a2211886c702c9f863801a12f"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "1dec4ba327f25ce0e5113c1ac09b2a2a6baa63e4b06cb4b2171ef81ff28c0ab5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "e24e367417486615b3d08edfad4175eb4e3e2254"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "4c09974e9fc5b27586a97147909099006881087a0e66219bef7a9f35c87f69f2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "0d4f59a963d52c8f8bda33e795c4868120a39597"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "0da1cc3ac97932ac93e21fbd9194ec8adbea21406dbca654cb1195821d6675b8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[OpenBLASConsistentFPCSR]]
+arch = "x86_64"
+git-tree-sha1 = "0c078564d4210d6385e014f8d3adf9285c4901af"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[OpenBLASConsistentFPCSR.download]]
+    sha256 = "4719207e746bac23a8f64f1027f3f29e18b5e1bcb7ffedc831ff38092dcd7ac5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASConsistentFPCSR_jll.jl/releases/download/OpenBLASConsistentFPCSR-v0.3.21+0/OpenBLASConsistentFPCSR.v0.3.21.x86_64-w64-mingw32-libgfortran5.tar.gz"
